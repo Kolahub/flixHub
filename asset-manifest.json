@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/flixHub/static/css/main.334bdeb1.css",
-    "main.js": "/flixHub/static/js/main.a1243c09.js",
+    "main.js": "/flixHub/static/js/main.960fe11a.js",
     "static/js/787.b0ef4d26.chunk.js": "/flixHub/static/js/787.b0ef4d26.chunk.js",
     "index.html": "/flixHub/index.html",
     "static/media/search.svg": "/flixHub/static/media/search.374dc34a202f33824c399a37082cabeb.svg",
     "main.334bdeb1.css.map": "/flixHub/static/css/main.334bdeb1.css.map",
-    "main.a1243c09.js.map": "/flixHub/static/js/main.a1243c09.js.map",
+    "main.960fe11a.js.map": "/flixHub/static/js/main.960fe11a.js.map",
     "787.b0ef4d26.chunk.js.map": "/flixHub/static/js/787.b0ef4d26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.a1243c09.js"
+    "static/js/main.960fe11a.js"
   ]
 }
