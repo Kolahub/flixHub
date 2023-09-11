@@ -3,7 +3,7 @@ import './App.css';
 import SearchIcon from './search.svg';
 import MovieCard from './MovieCard';
 
-const API_URL = 'http://www.omdbapi.com?apikey=7e2b9a66';
+const API_URL = 'https://www.omdbapi.com?apikey=7e2b9a66';
 
 const movie = {
   Poster:"https://m.media-amazon.com/images/M/MV5BMzY1MTIyNDg4MF5BMl5BanBnXkFtZTcwODQ4MTEzMw@@._V1_SX300.jpg",
